@@ -1,0 +1,7 @@
+.tamanho{
+    flex-wrap: wrap;
+    width: 100%;
+}
+img{
+    height: 270px;
+}

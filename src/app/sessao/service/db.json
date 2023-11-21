@@ -1,0 +1,11 @@
+{
+"produtos": [
+    {
+        "img": "../../assets/KIT CAFÉ.webp",
+        "nome": "KIT CAFÉS BAGGIO",
+        "valor": 50,
+        "descricao": "Cafés saborizados",
+        "id":1
+    }
+]
+}
